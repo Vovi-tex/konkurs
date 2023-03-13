@@ -1,0 +1,287 @@
+body{
+margin: 0;
+padding: 0;    
+}
+
+.header{    
+    background: url('../img/bg.jpg') no-repeat center;
+    background-size: cover;
+}
+
+h1{
+    font-size: 64px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 42px;
+    font-weight: 400;
+}
+
+h3{
+   font-size: 42px;
+   font-weight: 400; 
+}
+
+h4{
+    font-size: 24px;
+    color: #fff;
+    margin-top: 100px;
+}
+
+h5{
+    font-size: 24px;
+    color: #868585;
+}
+
+p{
+  font-size: 14px;  
+}
+
+.navbar li{
+    padding-left:205px;
+    margin-top: 30px;
+}
+
+.navbar{
+    background: none;
+    border: none;
+}
+
+a{
+    color: white;
+   
+}
+
+a:hover{
+    text-decoration: none;
+    color: #3f8afc;
+}
+
+.center{
+    text-align: center;
+    width: 100%;
+    margin:100px 0 100px 0;
+}
+
+
+
+.zag{
+    color: #fff;
+    text-align: center;
+    height: 300px;
+    margin: auto;
+}
+
+.button{
+    border: 1px solid white;
+    width: 100px;
+    border-radius: 100px;
+    margin-left: 420px;
+}
+
+.arr{
+    padding: 40px 0px 40px 0px;
+}
+
+.tx{
+    margin-top: -45px;
+}
+
+.button:hover{
+    background: #A9A32A;
+}
+
+.centr{
+    text-align: center;
+
+}
+
+.otl{
+    margin-left: 30px;
+}
+
+.ts{
+    margin-top: 30px;
+}
+
+.ot{
+    margin-top:100px ;
+}
+
+b{
+    font-size: 18px;
+}
+
+.otx{
+    padding-top: 50px;
+}
+
+.colb{
+    margin-top: 100px;
+}
+
+.colb a{
+    color: #000;
+}
+
+.colb a:hover{
+    border-bottom: 1px solid #000 ;
+    padding-bottom: 5px;
+}
+
+.otsu{
+    margin-bottom: 100px;
+}
+
+.bla{
+    color: #000;
+}
+
+.as p{
+    margin-top: 100px;
+}
+
+.vvn{
+    margin-top: 100px;
+}
+
+.vvm{
+    margin-top: 50px;
+}
+
+.el{
+    background: url('../img/Rectangle\ 10.jpg');
+    width: 100%;
+}
+
+.why{
+    color: #fff;
+    padding: 125px 0 125px 0;
+}
+
+.ots{
+    margin-top: 100px;
+}
+
+.ots h5{
+    margin-bottom: 50px;
+}
+
+.oot p{
+    padding-bottom: 25px;
+}
+
+.oto{
+    margin-top: 100px;
+}
+
+h10{
+    color:#868585 ;
+    font-size: 14px;
+}
+
+.aaw h5{
+    margin-bottom: 70px;
+}
+
+.podv{
+    background: url('../img/Rectangle\ 13.png');
+    height: 730px;
+}
+
+.mini{
+    color: #fff;
+    font-size:14px ;
+    border-bottom: 1px solid #fff;
+    padding-top: 75px;
+    padding-bottom: 5px;
+}
+
+.butn{
+    border: 1px solid #fff;
+    border-radius: 100px ;
+    width: 100px;
+    text-align: center;
+
+}
+
+.raz{
+    padding: 40px 0 40px 0;
+}
+
+.whyt{
+    color: white;
+    padding-left: 30px;
+}
+
+.pou{
+    color: #fff;
+}
+
+.pou p{
+    padding: 15px;
+}
+
+.pov{
+    margin-top: 150px;
+    color: #fff;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .navbar ul{
+        margin: 0;
+    }
+    .navbar li{
+        padding-left:100px ;
+    }
+    .button{
+        border: 1px solid white;
+        width: 100px;
+        border-radius: 100px;
+        margin-left: 320px;
+    }
+    .tx{
+        margin-top: -45px;
+    }
+    .otsu{
+        margin-bottom: 50px;
+    }
+
+    
+}
+
+@media screen and (max-width: 992px) {
+    .navbar ul{
+        margin:0;
+    }
+    .button{
+        border: 1px solid white;
+        width: 100px;
+        border-radius: 100px;
+        margin-left: 220px;
+    }
+    .tx{
+        margin-top: -45px;
+    } 
+
+    
+}
+
+@media screen and (max-width: 768px) {
+    .navbar ul{
+        margin:0;
+    }
+    .button{
+        border: 1px solid white;
+        width: 100px;
+        border-radius: 100px;
+        margin-left: 120px;
+    }
+    .tx{
+        margin-top: -45px;
+    }
+
+}
+
